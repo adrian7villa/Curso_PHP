@@ -34,4 +34,11 @@ $numero1/=10;
 $numero2/=5;
 echo $numero1.'</br>'.$numero2.'</br>'.'</br>';
 
+$numero1=10;
+$numero2=5;
+#++$numero1;
+#$numero2++;
+echo ++$numero1.'</br>'.$numero2++.'</br>'.'</br>';
+
+
 ?>
