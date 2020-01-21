@@ -1,7 +1,7 @@
 <?php
 
-function obtenerEdad(){
-    $Edad=23;
+function obtenerEdad():int{
+    $Edad='dada23dda';
     return $Edad;
 }
 
